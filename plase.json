@@ -1,0 +1,14 @@
+{ "Place":[
+			{  "coorMap_X":1,
+			   "coordMap_Y":1,
+			   "namePlace":"Gvardeysk",
+			   "result":[1,2,3,4,5,6,7,8,9],
+			   "nameOfPlayers":["vano","igor","jon","arni","o-yo","tj","dre","slim","trololo"]
+			},
+			{  "coorMap_X":2,
+			   "coordMap_Y":2,
+			   "namePlace":"Cepruss",
+			   "result":[5,2,5,4,5,6,5,8,5],
+			   "nameOfPlayers":["vano","igor","jon","arni","o-yo","tj","dre","slim","trololo"]
+			}]
+}
