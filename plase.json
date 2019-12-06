@@ -2,6 +2,7 @@
 			{  "namePlace":"Pregolsky, day 1",
 			   "alpha":3.14,
 			   "alpha2":1.57,
+			   "dx":-30;
 			   "cord_Map_X":54.693730,
 			   "cord_Map_Y":20.42181255,
 			   "cord_skill_x":20.419043,
@@ -13,6 +14,7 @@
 			{  "namePlace":"Pregolsky, day 2",
 			   "alpha":3.14,
 			   "alpha2":1.57,
+			   "dx":-30;
 			   "cord_Map_X":54.693730,
 			   "cord_Map_Y":20.42181255,
 			   "cord_skill_x":20.419043,
@@ -24,6 +26,7 @@
 			{  "namePlace":"nab. Karbisheva",
 			   "alpha":3.14,
 			   "alpha2":1.57,
+			   "dx":-30;
 			   "cord_Map_X":54.707471, 
 			   "cord_Map_Y":20.519188,
 			   "cord_skill_x":20.517160, 
@@ -36,6 +39,7 @@
             {  "namePlace":"Gvardeys, Pregolya",
 			   "alpha":2.44,
 			   "alpha2":0.785,
+			   "dx":-30;
 			   "cord_Map_X":54.641431,
 			   "cord_Map_Y":21.088126,
 			   "cord_skill_x":21.086260,
@@ -48,6 +52,7 @@
 			{  "namePlace":"Cepruss",
 			   "alpha":2.44,
 			   "alpha2":0.785,
+			   "dx":-30;
 			   "cord_Map_X":54.698971,
 			   "cord_Map_Y":20.442466,
 			   "cord_skill_x":20.440073,
